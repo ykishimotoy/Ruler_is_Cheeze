@@ -3,10 +3,14 @@
 ## 説明
 **Ruler is Cheeze**のWebサイトです。
 Ruler is Cheezeは私の所属するバンドです。
-本Webサイトはメンバーのみんあゆが作成・岸本が公開したものです。
+本Webサイトはメンバーのみんあゆが作成・岸本が公開したものです。（みんあゆに感謝。なお、岸本自身のポートフォリオではないです。）
+
+
 
 ## 公開URL
 https://ykishimotoy.github.io/Ruler_is_Cheeze/
+
+
 
 ## 編集方法（みんあゆ向け）
 1. index.html等をクリックして、右上に出てくる鉛筆みたいなマーク（編集ボタン）を押す。<img width="953" alt="edit_button" src="https://github.com/ykishimotoy/Ruler_is_Cheeze/assets/59186644/c7567d87-1685-467c-a67d-5a17eab08ce2">
