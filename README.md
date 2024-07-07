@@ -1,5 +1,8 @@
 # Ruler_is_Cheeze
 
+# このサイトは事前確認＆テスト用！！！本番は下記。
+https://github.com/Ruler-is-Cheeze/Ruler-is-Cheeze
+
 <br></br>
 
 ## 説明
